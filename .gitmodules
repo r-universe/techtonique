@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/techtonique/universe
 	shallow = true
 	branch = HEAD
+[submodule "crossval"]
+	path = crossval
+	url = https://github.com/Techtonique/crossval
+	shallow = true
+	registered = true
