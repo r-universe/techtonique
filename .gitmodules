@@ -3,8 +3,8 @@
 	url = https://github.com/techtonique/universe
 	shallow = true
 	branch = HEAD
-[submodule "crossval"]
-	path = crossval
-	url = https://github.com/Techtonique/crossval
+[submodule "crossvalidation"]
+	path = crossvalidation
+	url = https://github.com/Techtonique/crossvalidation
 	shallow = true
 	registered = true

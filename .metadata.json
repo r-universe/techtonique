@@ -1,6 +1,5 @@
 [
   {
-    "package": "crossval",
-    "oncran": false
+    "package": "crossvalidation"
   }
 ]
