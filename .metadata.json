@@ -1,5 +1,8 @@
 [
   {
     "package": "crossvalidation"
+  },
+  {
+    "package": "esgtoolkit"
   }
 ]
