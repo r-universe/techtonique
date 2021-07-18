@@ -8,8 +8,8 @@
 	url = https://github.com/Techtonique/crossvalidation
 	shallow = true
 	registered = true
-[submodule "esgtoolkit"]
-	path = esgtoolkit
+[submodule "ESGtoolkit"]
+	path = ESGtoolkit
 	url = https://github.com/Techtonique/esgtoolkit
 	shallow = true
 	registered = true
