@@ -13,3 +13,8 @@
 	url = https://github.com/Techtonique/esgtoolkit
 	shallow = true
 	registered = true
+[submodule "nnetsauce"]
+	path = nnetsauce
+	url = https://github.com/Techtonique/nnetsauce/tree/master/R-package
+	shallow = true
+	registered = true
