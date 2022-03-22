@@ -18,3 +18,8 @@
 	url = https://github.com/Techtonique/ahead
 	shallow = true
 	registered = true
+[submodule "ycinterextra"]
+	path = ycinterextra
+	url = https://github.com/Techtonique/ycinterextra
+	shallow = true
+	registered = true
