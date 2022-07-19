@@ -23,3 +23,8 @@
 	url = https://github.com/Techtonique/ycinterextra
 	shallow = true
 	registered = true
+[submodule "bcn"]
+	path = bcn
+	url = https://github.com/Techtonique/bcn
+	shallow = true
+	registered = true
