@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/techtonique/universe
-	shallow = true
 	branch = HEAD
 [submodule "crossvalidation"]
 	path = crossvalidation
 	url = https://github.com/Techtonique/crossvalidation
-	shallow = true
-	registered = true
 [submodule "ESGtoolkit"]
 	path = ESGtoolkit
 	url = https://github.com/Techtonique/esgtoolkit
-	shallow = true
-	registered = true
 [submodule "ahead"]
 	path = ahead
 	url = https://github.com/Techtonique/ahead
-	shallow = true
-	registered = true
 [submodule "ycinterextra"]
 	path = ycinterextra
 	url = https://github.com/Techtonique/ycinterextra
-	shallow = true
-	registered = true
 [submodule "bcn"]
 	path = bcn
 	url = https://github.com/Techtonique/bcn
-	shallow = true
-	registered = true
