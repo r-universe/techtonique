@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/techtonique/universe
 	branch = HEAD
-[submodule "crossvalidation"]
-	path = crossvalidation
-	url = https://github.com/Techtonique/crossvalidation
 [submodule "ESGtoolkit"]
 	path = ESGtoolkit
 	url = https://github.com/Techtonique/esgtoolkit
 [submodule "ahead"]
 	path = ahead
 	url = https://github.com/Techtonique/ahead
-[submodule "ycinterextra"]
-	path = ycinterextra
-	url = https://github.com/Techtonique/ycinterextra
 [submodule "bcn"]
 	path = bcn
 	url = https://github.com/Techtonique/bcn
+[submodule "crossvalidation"]
+	path = crossvalidation
+	url = https://github.com/Techtonique/crossvalidation
+[submodule "ycinterextra"]
+	path = ycinterextra
+	url = https://github.com/Techtonique/ycinterextra
