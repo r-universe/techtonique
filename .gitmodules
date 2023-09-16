@@ -14,6 +14,6 @@
 [submodule "crossvalidation"]
 	path = crossvalidation
 	url = https://github.com/Techtonique/crossvalidation
-[submodule "ycinterextra"]
-	path = ycinterextra
-	url = https://github.com/Techtonique/ycinterextra
+[submodule "learningmachine"]
+	path = learningmachine
+	url = https://github.com/Techtonique/learningmachine
