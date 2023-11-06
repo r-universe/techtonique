@@ -17,3 +17,9 @@
 [submodule "learningmachine"]
 	path = learningmachine
 	url = https://github.com/Techtonique/learningmachine
+[submodule "mlsauce"]
+	path = mlsauce
+	url = https://github.com/Techtonique/mlsauce_r
+[submodule "nnetsauce"]
+	path = nnetsauce
+	url = https://github.com/Techtonique/nnetsauce_r
