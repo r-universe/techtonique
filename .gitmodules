@@ -14,6 +14,9 @@
 [submodule "esgtoolkit"]
 	path = esgtoolkit
 	url = https://github.com/Techtonique/esgtoolkit
+[submodule "forecastingapi"]
+	path = forecastingapi
+	url = https://github.com/Techtonique/forecastingAPI_r
 [submodule "learningmachine"]
 	path = learningmachine
 	url = https://github.com/Techtonique/learningmachine
