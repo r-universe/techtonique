@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/techtonique/universe
+	url = https://github.com/techtonique/techtonique.r-universe.dev
 	branch = HEAD
 [submodule "ahead"]
 	path = ahead
