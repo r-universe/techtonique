@@ -26,3 +26,6 @@
 [submodule "nnetsauce"]
 	path = nnetsauce
 	url = https://github.com/Techtonique/nnetsauce_r
+[submodule "simulatetimeseries"]
+	path = simulatetimeseries
+	url = https://github.com/thierrymoudiki/simulatetimeseries
