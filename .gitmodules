@@ -5,6 +5,9 @@
 [submodule "ahead"]
 	path = ahead
 	url = https://github.com/Techtonique/ahead
+[submodule "bayesianrvfl"]
+	path = bayesianrvfl
+	url = https://github.com/thierrymoudiki/bayesianrvfl
 [submodule "bcn"]
 	path = bcn
 	url = https://github.com/Techtonique/bcn
