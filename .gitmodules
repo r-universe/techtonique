@@ -23,6 +23,9 @@
 [submodule "learningmachine"]
 	path = learningmachine
 	url = https://github.com/Techtonique/learningmachine
+[submodule "misc"]
+	path = misc
+	url = https://github.com/thierrymoudiki/misc
 [submodule "mlsauce"]
 	path = mlsauce
 	url = https://github.com/Techtonique/mlsauce_r
