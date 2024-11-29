@@ -1,5 +1,11 @@
 [
   {
+    "package": "bayesianrvfl",
+    "url": "https://github.com/thierrymoudiki/bayesianrvfl",
+    "via": ["learningmachine"],
+    "from": "learningmachine"
+  },
+  {
     "package": "misc",
     "url": "https://github.com/thierrymoudiki/misc",
     "via": ["ahead"],
