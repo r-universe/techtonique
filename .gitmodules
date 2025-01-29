@@ -35,3 +35,6 @@
 [submodule "simulatetimeseries"]
 	path = simulatetimeseries
 	url = https://github.com/thierrymoudiki/simulatetimeseries
+[submodule "tisthemachinelearner"]
+	path = tisthemachinelearner
+	url = https://github.com/Techtonique/tisthemachinelearner_r
