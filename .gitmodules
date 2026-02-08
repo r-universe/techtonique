@@ -20,9 +20,18 @@
 [submodule "forecastingapi"]
 	path = forecastingapi
 	url = https://github.com/Techtonique/forecastingAPI_r
+[submodule "ftsatoo"]
+	path = ftsatoo
+	url = https://github.com/thierrymoudiki/ftsatoo
+[submodule "healthsimulation"]
+	path = healthsimulation
+	url = https://github.com/Techtonique/healthsimulation
 [submodule "learningmachine"]
 	path = learningmachine
 	url = https://github.com/Techtonique/learningmachine
+[submodule "matern32"]
+	path = matern32
+	url = https://github.com/thierrymoudiki/matern32
 [submodule "misc"]
 	path = misc
 	url = https://github.com/thierrymoudiki/misc
@@ -32,9 +41,18 @@
 [submodule "nnetsauce"]
 	path = nnetsauce
 	url = https://github.com/Techtonique/nnetsauce_r
+[submodule "rvfl"]
+	path = rvfl
+	url = https://github.com/thierrymoudiki/rvfl
 [submodule "simulatetimeseries"]
 	path = simulatetimeseries
 	url = https://github.com/thierrymoudiki/simulatetimeseries
+[submodule "stochasticscenarios"]
+	path = stochasticscenarios
+	url = https://github.com/Techtonique/stochasticscenarios
 [submodule "tisthemachinelearner"]
 	path = tisthemachinelearner
 	url = https://github.com/Techtonique/tisthemachinelearner_r
+[submodule "unifiedml"]
+	path = unifiedml
+	url = https://github.com/Techtonique/unifiedml
