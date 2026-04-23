@@ -35,6 +35,9 @@
 [submodule "misc"]
 	path = misc
 	url = https://github.com/thierrymoudiki/misc
+[submodule "mlS3"]
+	path = mlS3
+	url = https://github.com/Techtonique/mlS3
 [submodule "mlsauce"]
 	path = mlsauce
 	url = https://github.com/Techtonique/mlsauce_r
@@ -44,6 +47,9 @@
 [submodule "rvfl"]
 	path = rvfl
 	url = https://github.com/thierrymoudiki/rvfl
+[submodule "rvflnet"]
+	path = rvflnet
+	url = https://github.com/thierrymoudiki/rvflnet
 [submodule "simulatetimeseries"]
 	path = simulatetimeseries
 	url = https://github.com/thierrymoudiki/simulatetimeseries
