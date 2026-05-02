@@ -56,6 +56,9 @@
 [submodule "stochasticscenarios"]
 	path = stochasticscenarios
 	url = https://github.com/Techtonique/stochasticscenarios
+[submodule "survivalisttoo"]
+	path = survivalisttoo
+	url = https://github.com/Techtonique/survivalisttoo
 [submodule "tisthemachinelearner"]
 	path = tisthemachinelearner
 	url = https://github.com/Techtonique/tisthemachinelearner_r
