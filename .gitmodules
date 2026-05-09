@@ -23,6 +23,9 @@
 [submodule "ftsatoo"]
 	path = ftsatoo
 	url = https://github.com/thierrymoudiki/ftsatoo
+[submodule "garchf"]
+	path = garchf
+	url = https://github.com/thierrymoudiki/garchf
 [submodule "healthsimulation"]
 	path = healthsimulation
 	url = https://github.com/Techtonique/healthsimulation
