@@ -35,6 +35,9 @@
 [submodule "matern32"]
 	path = matern32
 	url = https://github.com/thierrymoudiki/matern32
+[submodule "metalearnedridge2f"]
+	path = metalearnedridge2f
+	url = https://github.com/Techtonique/metalearnedridge2f
 [submodule "misc"]
 	path = misc
 	url = https://github.com/thierrymoudiki/misc
