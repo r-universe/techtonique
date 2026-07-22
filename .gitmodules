@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/techtonique/techtonique.r-universe.dev
 	branch = HEAD
+[submodule "GPopt"]
+	path = GPopt
+	url = https://github.com/Techtonique/GPopt_r
 [submodule "ahead"]
 	path = ahead
 	url = https://github.com/Techtonique/ahead
