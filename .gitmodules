@@ -17,6 +17,9 @@
 [submodule "crossvalidation"]
 	path = crossvalidation
 	url = https://github.com/Techtonique/crossvalidation
+[submodule "empiricaloptions"]
+	path = empiricaloptions
+	url = https://github.com/thierrymoudiki/empiricaloptions
 [submodule "esgtoolkit"]
 	path = esgtoolkit
 	url = https://github.com/Techtonique/esgtoolkit
