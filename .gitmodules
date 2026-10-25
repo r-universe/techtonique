@@ -14,6 +14,9 @@
 [submodule "bcn"]
 	path = bcn
 	url = https://github.com/Techtonique/bcn
+[submodule "caretS3"]
+	path = caretS3
+	url = https://github.com/thierrymoudiki/caretS3
 [submodule "crossvalidation"]
 	path = crossvalidation
 	url = https://github.com/Techtonique/crossvalidation
